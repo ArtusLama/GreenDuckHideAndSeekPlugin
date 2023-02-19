@@ -1,0 +1,13 @@
+name: Winterevent
+version: '${project.version}'
+main: de.artus.winterevent.Main
+api-version: 1.18
+authors: [ _Artus_ ]
+description: A plugin for the christmas event on the duckEmpire server by Artus
+commands:
+  game:
+    description: starts the game
+  showplayers:
+    description: revels the hider for X seconds
+  players:
+    description: DONT USE!
